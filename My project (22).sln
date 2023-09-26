@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Obi", "Obi.csproj", "{1f6b4495-d1e1-ec35-366b-f9a39dbfa819}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{5cd53c7b-cd58-665d-23a0-2f3261319603}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Obi.Editor", "Obi.Editor.csproj", "{9437f328-6b65-243f-f7d6-9ae8e0a2c710}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1f6b4495-d1e1-ec35-366b-f9a39dbfa819}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1f6b4495-d1e1-ec35-366b-f9a39dbfa819}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5cd53c7b-cd58-665d-23a0-2f3261319603}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5cd53c7b-cd58-665d-23a0-2f3261319603}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9437f328-6b65-243f-f7d6-9ae8e0a2c710}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9437f328-6b65-243f-f7d6-9ae8e0a2c710}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
